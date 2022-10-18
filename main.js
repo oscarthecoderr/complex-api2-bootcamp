@@ -1,5 +1,5 @@
 document.querySelector("button").addEventListener("click", infoPark);
-document.querySelector('ol').style.display = 'non'
+document.querySelector('ol').style.display = 'none'
 
 function infoPark() {
 
@@ -24,7 +24,7 @@ function infoPark() {
 }
 
   function flic(parkName) {
-   fetch(`https://api.unsplash.com/search/photos/?query=${parkName}&client_id=0fiIzbgYLUuuuzAxDE2hATLVKr9bZDoUMQab5vXv`)
+   fetch(`https://api.unsplash.com/search/photos/?query=${parkName}&client_id=zqF7Ao6tFCjRptQ7_MZyylVmBRjIPMPJC7zxGO0bUy0`)
      .then((res) => res.json())
      .then((data) => {
        console.log(data);
