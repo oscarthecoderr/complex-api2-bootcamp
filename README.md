@@ -1,8 +1,8 @@
 # 📊 Project: Complex API 2
 
 ### Goal: Use data returned from one api to make a request to another api and display the data returned
+<img width="1786" alt="Screen Shot 2022-10-29 at 3 31 13 PM" src="https://user-images.githubusercontent.com/113155959/198849614-65790c02-4940-4a7f-b66d-696358b4c18b.png">
 
-### How to submit your code for review:
 
 - Fork and clone this repo
 - Create a new branch called answer
